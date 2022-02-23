@@ -1,0 +1,23 @@
+it is a free and open source distributed version control system.
+it is decentralized it allows multiple users to work on the same project or file.
+it doesn't rely on a framework.
+git was developed in 2005.
+it can handle small and large projects with speed and efficiency.
+git is mainly used by programmers to keep track of code changes. it coordinated between multiple developers
+it runs on the command line on local computer.
+it keeps files and tracks file changes in what is called reposityory.
+repository can be local or remote. also we can revert back changes at any point of time.
+it keeps a permanent record of who made the changes and when.
+takes snapshot of state of your files at intervals you set.
+internet connection is not required for local repository but to push files we have to have internet.
+
+----github----
+it is a web based git repository hosting service.
+it has a graphical interface that helps us to navigate repositories.
+it makes collaboration easy.
+it has both desktop and mobile integrations.
+it provides bug tracking feautures.
+it also have task management.
+it is the largest host of source code in the world.
+it has 18M users and 40M repositories.
+allows wiki for all the projects.
