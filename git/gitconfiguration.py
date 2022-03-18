@@ -97,7 +97,7 @@ Untracked files:
         basic/
         data structures/accessing elements in a list.py
         data structures/list methods part 2.py
-        data structures/listmethods part1.py
+        data structures/listmethods part1course.py
         data structures/lists.py
         data structures/nested list (2d list).py
         data structures/python dictionary.py
